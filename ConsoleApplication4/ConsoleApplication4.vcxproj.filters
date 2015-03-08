@@ -38,7 +38,7 @@
     <ClCompile Include="Fraction.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Source.cpp">
+    <ClCompile Include="Tut2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
